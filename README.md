@@ -1,0 +1,14 @@
+# Installation
+- Go to your (hopefully Chromium-based) browser's extension page
+- Enable developer mode.
+- Download the folder as a zip
+- Unzip this folder 
+- Go to your (hopefully Chromium-based) browser's extension page
+- Go to `Load unpacked` 
+- Select the unzipped folder.
+- If you've done this then the extension should be installed locally
+
+# Usage
+- Make sure the extension is enabled
+- Make sure you're logged in to Company Connect
+- Go to any Company Connect page and it will work its magic
